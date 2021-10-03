@@ -2,7 +2,7 @@
 # In order to prevent that, we remove the initial "."
 # And the CLI then renames it
 
-# added on top of template
+# added on top of template never no 2 negative make positive
 app/google-services.json
 org.lichess.keystore
 keystore.properties
